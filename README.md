@@ -96,7 +96,7 @@ This script contains essential functions for detecting hand landmarks and counti
 Here is an example video demonstrating the functionality of the Fingers Counter project, playing continuously:
 
 <video controls autoplay loop>
-  <source src="Finger-Count-Detection/Testing.mp4" type="video/mp4">
+  <source src="Testing.mp4" type="video/mp4">
 </video>
 
 ## License
