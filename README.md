@@ -7,7 +7,6 @@ This project leverages computer vision techniques to detect hand landmarks using
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
 - [Output](#output)
-- [Example](#example)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -90,14 +89,6 @@ This script contains essential functions for detecting hand landmarks and counti
 - Frame-wise accuracy printed in the console.
 - Overall and average accuracy displayed.
 - Accuracy curve plotted using Matplotlib.
-
-## Example
-
-Here is an example video demonstrating the functionality of the Fingers Counter project, playing continuously:
-
-<video controls autoplay loop>
-  <source src="Testing.mp4" type="video/mp4">
-</video>
 
 ## License
 
